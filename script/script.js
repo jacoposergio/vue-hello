@@ -7,7 +7,8 @@ var app= new Vue(
     {
         el: '#root',
         data: {
-            titleClass: 'Ciao, sono un H1'
+            titleClass: 'Make America Great Again',
+            imageSrc: 'https://s.abcnews.com/images/Politics/trump-majority-conference-01-ap-jef-220617_1655492688669_hpMain_16x9_1600.jpg'
         }
     }
 )
